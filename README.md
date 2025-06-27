@@ -1,3 +1,9 @@
 # DSA Practice
-A collection of solved DSA problems in C++
--This repository contains my solutions to various data structures and algorithms problems from platforms like LeetCode, Codeforces, and GeeksforGeeks.
+
+## Language
+C++
+
+## Description
+A collection of solved Data Structures and Algorithms (DSA) problems.
+
+This repository contains my solutions to various DSA problems from platforms like **LeetCode**.
